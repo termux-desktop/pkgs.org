@@ -1,5 +1,5 @@
 # yisus.ports
-Mi software repository for termux 
+My software repository for termux 
 
 # Como instalar ?
 `Ejecute esto en su terminal:`
