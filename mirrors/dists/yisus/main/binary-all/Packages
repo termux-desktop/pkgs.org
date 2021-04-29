@@ -91,6 +91,20 @@ SHA1: d23acd304cccc30eac6f9e5e2feb39fb276f1339
 SHA256: 943ce8f7263e27863f7ed6b08d5ef3cb67b6035cfe500558c19dc60e9dc3e1fb
 SHA512: e178c6655cdf64b14b91a84b0f7549b8f19500ff500824b05d3ed7a87744ba131eb68757a54bb1236c6b8a014bb155aa227c3e22281d73fe8febcaf94426aca6
 
+Package: yisus-keyring-2021
+Version: 1.1
+Architecture: all
+Maintainer: @Yisus7u7
+Description: Yisus key repo archiver
+Homepage: https://github.com/Yisus7u7/yisus.ports
+Depends: apt
+Filename: dists/yisus/main/binary-all/yisus-keyring-2021_1.1_all.deb
+Size: 788
+MD5Sum: 81f97a6709aa5264365c7a65c5bd7b54
+SHA1: a3c52dce8a35190173cd0abe9c11299e96314f4c
+SHA256: 96fae492f959a9b08547e50edf3c6da3ee7b85c63b24582c3c26a3a1463d262e
+SHA512: c9270ab49da1c4ad56e9bbecfb756983110a9a2e2d8c5443461bf397c8efe5bc86c91e73ef7a15953880aebfa434d1b132c178e62fc31308c6982577936400d9
+
 Package: ys-debs
 Version: 1.0
 Architecture: all
