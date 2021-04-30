@@ -91,22 +91,6 @@ SHA1: d23acd304cccc30eac6f9e5e2feb39fb276f1339
 SHA256: 943ce8f7263e27863f7ed6b08d5ef3cb67b6035cfe500558c19dc60e9dc3e1fb
 SHA512: e178c6655cdf64b14b91a84b0f7549b8f19500ff500824b05d3ed7a87744ba131eb68757a54bb1236c6b8a014bb155aa227c3e22281d73fe8febcaf94426aca6
 
-Package: ttf-liberation
-Version: 3.7
-Architecture: all
-Maintainer: @Yisus7u7
-Description: The Liberation(tm) Fonts is a font family which aims at metric compatibility with Arial, Times New Roman, and Courier New
-Homepage: https://github.com/liberationfonts/liberation-fonts
-Depends: ttf-dejavu
-Recommends: tumbler
-Suggests: xournal
-Filename: dists/yisus/main/binary-all/ttf-liberation_3.7_all.deb
-Size: 2896508
-MD5Sum: 215d255b10dd96777ae7958fb14e6f68
-SHA1: 5e2da63c5ffa8262a983f78b5ad83112dfddec8d
-SHA256: e4f8ef65f6791c402f4fbcf0eb42cff06ec70de427c7b0f55250b3834c9cb7a4
-SHA512: bde5559954f99d8c5a1fc18bd0d804cfe5dfc1a0ee400e173e3755430eda86212261ec6badabe5cd8cce41ab6cec4e2c0022e8996089c2ef402d36061b781153
-
 Package: yisus-keyring-2021
 Version: 1.1
 Architecture: all
