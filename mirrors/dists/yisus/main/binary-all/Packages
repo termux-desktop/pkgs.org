@@ -101,11 +101,11 @@ Depends: ttf-dejavu
 Recommends: tumbler
 Suggests: xournal
 Filename: dists/yisus/main/binary-all/ttf-liberation_3.7_all.deb
-Size: 2895728
-MD5Sum: 039038787adc3d928d7d4ffd2ae988a2
-SHA1: b01f8353ed58b2fce644cc7bd46465d6a749b591
-SHA256: 68f73536c65efc12adee81e4fda5d949d9ec56af4fda373caa9a7a8fd7fbf92f
-SHA512: 4ab8f6ee1d751e49bf09632c625bdbea444e4549223f675ad6a35d7717b16d8bcd20eaf0f66051419a0dc0631f692e48ce0f9e99ea8f662307b5f2a6f1ee5b70
+Size: 2896508
+MD5Sum: 215d255b10dd96777ae7958fb14e6f68
+SHA1: 5e2da63c5ffa8262a983f78b5ad83112dfddec8d
+SHA256: e4f8ef65f6791c402f4fbcf0eb42cff06ec70de427c7b0f55250b3834c9cb7a4
+SHA512: bde5559954f99d8c5a1fc18bd0d804cfe5dfc1a0ee400e173e3755430eda86212261ec6badabe5cd8cce41ab6cec4e2c0022e8996089c2ef402d36061b781153
 
 Package: yisus-keyring-2021
 Version: 1.1
