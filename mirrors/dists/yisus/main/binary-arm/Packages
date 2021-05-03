@@ -1,0 +1,16 @@
+Package: hydra
+Version: 1.2.9
+Architecture: arm
+Maintainer: @Yisus7u7
+Description: Tool for password attack
+Homepage: https://github.com/vanhauser-thc/thc-hydra
+Depends: python,clang,openssh,openssl
+Recommends: make
+Suggests: fotosploit
+Filename: dists/yisus/main/binary-arm/hydra_1.2.9_arm.deb
+Size: 4349924
+MD5Sum: 44230b180a70ad008a5c0e6e40b9b399
+SHA1: 91fdd74be81960732d9ecd81dd95bd213daa0e6e
+SHA256: 9355c3049307fdb671e8f961456df2e65c7eba32730795c2cd53eed8b2209dc6
+SHA512: a3fef21fc5628d1cfa7b73786b3c842c20cf23cf0667f0c6c240b4d60c3ecea662566a9d71b0c55e847b8ca0c43b10fa4047fbd232f722799c8f0de8f0ed72ec
+
