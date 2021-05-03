@@ -1,3 +1,4 @@
+data/data/com.termux/files/usr/bin/hydra-gtk                                     hydra
 data/data/com.termux/files/usr/bin/hydra                                         hydra
 data/data/com.termux/files/usr/bin/xhydra                                        hydra
 data/data/com.termux/files/usr/share/thc-hydra/.clang-format                     hydra
