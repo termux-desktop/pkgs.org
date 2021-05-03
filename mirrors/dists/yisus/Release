@@ -1,14 +1,14 @@
 Codename: termux
 Version: 1
-Architectures: arm all
+Architectures: all arm
 Description: yisus repository
 Suite: yisus
-Date: Mon, 03 May 2021 15:01:03 UTC
+Date: Mon, 03 May 2021 15:09:22 UTC
 MD5Sum:
  68b85b29caf52a9a8b6b953e18eac32c 5384 main/binary-all/Packages
  d444d7ced834afdceb071699581d262f 2372 main/binary-all/Packages.xz
- 2d54a5d5a41b90dfdd2f5fa9591da5e6 608 main/binary-arm/Packages
- 108d99f21474837b589d38d0b1c4dc1f 520 main/binary-arm/Packages.xz
+ d009dc311ce9729f4fd87cc0e978be71 608 main/binary-arm/Packages
+ a4315255e4a147103dcafe59b0d28820 520 main/binary-arm/Packages.xz
  079a35c35c25ca2f1e97fd71e1729d4e 3845132 main/Contents-all
  e3808f783889354a0ae1b6b33056f067 19412 main/Contents-arm
  be4bf470902b9244874280ed18a62cef 134728 main/Contents-all.xz
@@ -16,8 +16,8 @@ MD5Sum:
 SHA1:
  ca44029a7e905e880c29adf3599a0be8f8d7b168 5384 main/binary-all/Packages
  b280ed4dff1b5bb92b29ebbd5d0a043869709036 2372 main/binary-all/Packages.xz
- 92d3a72745a0b0e25cc6ad45aa7ed30f3b767975 608 main/binary-arm/Packages
- 0c0624909f34a8a9b04b85104c2d4592b8332d9a 520 main/binary-arm/Packages.xz
+ 74ada5c5c98337909631c29602be14a0224a42fa 608 main/binary-arm/Packages
+ 868cccd20045c151f771a71bbd58b6be44696460 520 main/binary-arm/Packages.xz
  b9dbda29ee1cdbb661927d1cf476982331435b6e 3845132 main/Contents-all
  22398574aa507ba74fe84deed06dc087ddd2aa8c 19412 main/Contents-arm
  41488af7d84b1489592e4e7b1525e78bf4bc0f11 134728 main/Contents-all.xz
@@ -25,8 +25,8 @@ SHA1:
 SHA256:
  8bc2b39961d612cc9f2b635c9602265da6e9e2a34e65d4b1558bb77a2f6d0a43 5384 main/binary-all/Packages
  0b7018f079cd947581af46306a7a73fcc72cfec9acb8e7af8f746bc7fade8946 2372 main/binary-all/Packages.xz
- 362cdf058cb977a3525b3b0b1bbc240a1ae23af805b769eb161854103c2b91e4 608 main/binary-arm/Packages
- ce615a5ee786561158c6a17beb5b86a09d6999ab75fd4433fb309c8b19343803 520 main/binary-arm/Packages.xz
+ e5cc36ded0dcdc2c4dcfa3387fc88383fa30ede7db6f64310690ef3022ed5a68 608 main/binary-arm/Packages
+ 41307202ea5502f566f55b02dcae42665bd8d08b357157fa1e1a2a0723b2fdcd 520 main/binary-arm/Packages.xz
  c440b619d9cd3552e65724b6cca852bad1a1377b8b61bd376793db7544c33bb8 3845132 main/Contents-all
  9d862990911adc1930e580d48bb2ea02965a00768dc4b166051d1150a8e101ba 19412 main/Contents-arm
  a0464193b56452451b83486861641b81b5e823437f561db4e57294c82b4b17bb 134728 main/Contents-all.xz
@@ -34,8 +34,8 @@ SHA256:
 SHA512:
  b3f04f4aabea65578ada007e9cbd472db0b4bac96e39abcbc735fa890f537533beacf1e8e21803ece689473f2bc10bcdaa52444d2186a2472bcc861d1d194b6f 5384 main/binary-all/Packages
  a930d344afef44b09e630710b2228c83d5a256044183705540bab171b70191edeb1d495b24f99e8ad2bf2bea43725faefbb1e10b962532342e853b8ff4389090 2372 main/binary-all/Packages.xz
- f735dae154dbdda9d1316e2c4ffcf3511b1485e3478ef62434574cdd47d676e5371b07e13be26c0b8aaabc7ee6d7ff2417830e14c3d2c962a27df53a1b42861c 608 main/binary-arm/Packages
- c5dd22eb2ddc8b1f54743fb940ae813009db758cf8239302df69932535068a236296b953c51e9d2fff50b01fba110837a500c4435c8ff4434714d090c82a23a7 520 main/binary-arm/Packages.xz
+ 2da91b61292f3e1847da671c65f26681ee6fe26301713e096cf256ff0f0e89c595b569c28e10ad4859080cfd2bb05e8a2c640d9e4af3e6b7db96cb311cc95f77 608 main/binary-arm/Packages
+ 17b9e9584e23f0904ca963efd82b125dd9a083e85455d75353ce2591b3834956f9fa10b6089ce7a2c7a77fceb91d9187ffaba24a4647ffc6117b2fb807b27cec 520 main/binary-arm/Packages.xz
  93a28ef78d5cfe04809c05cbb5cfd1619b90839ae24ed0fa64576bfdc2b0fb8dc8c3e87e4946a0845b3168c5f246f9f2c0b4e4720a3cdfc10599ab0480f4a1de 3845132 main/Contents-all
  80953beb36d4fb4a869950381a150f1031b1a2aede2a2b6a2d9ae93ba96783249bcf8cb4b162e707dbe7df542a39e70e53635c61b00840b175384075a0659365 19412 main/Contents-arm
  92980b4f3f9d92ce688814a47725a8059c53c3174ce62903c0162314e9c6250ed6214ef7b0313e63afcb18353be6b06fec8a79efa277d6e2c3c5dba3879d4eaa 134728 main/Contents-all.xz
