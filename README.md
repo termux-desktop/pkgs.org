@@ -12,3 +12,6 @@ pkg install ./yisus-keyring_2.0.1_all.deb
 
 pkg update && pkg upgrade 
 
+>Ese paquete incluye la rama principal (stable) y 
+La inestable (testing)
+
