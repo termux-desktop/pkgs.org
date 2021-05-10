@@ -1,1 +1,1 @@
-termux-apt-repo debs/ mirrors yisus main
+termux-apt-repo debs/ mirrors yisus stable
