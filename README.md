@@ -6,9 +6,9 @@ My software repository for termux
 
 pkg install wget 
 
-wget https://github.com/Yisus7u7/yisus.ports/raw/main/mirrors/dists/yisus/main/binary-all/yisus-keyring-2021_1.1_all.deb
+wget https://github.com/Yisus7u7/yisus.ports/raw/main/mirrors/dists/yisus/stable/binary-all/yisus-keyring_2.0.1_all.deb
 
-pkg install ./yisus-keyring-2021_1.1_all.deb 
+pkg install ./yisus-keyring_2.0.1_all.deb 
 
 pkg update && pkg upgrade 
 
