@@ -33992,6 +33992,8 @@ data/data/com.termux/files/usr/share/icons/Tela-yellow-dark/symbolic/status/weat
 data/data/com.termux/files/usr/share/icons/Tela-yellow-dark/symbolic/status/weather-storm-symbolic.svg tela-yellow-icon-theme
 data/data/com.termux/files/usr/share/icons/Tela-yellow-dark/symbolic/status/weather-tornado-symbolic.svg tela-yellow-icon-theme
 data/data/com.termux/files/usr/share/icons/Tela-yellow-dark/symbolic/status/weather-windy-symbolic.svg tela-yellow-icon-theme
+data/data/com.termux/files/usr/etc/apt/sources.list.d/yisus.ports-stable.list    yisus-keyring
+data/data/com.termux/files/usr/etc/apt/sources.list.d/yisus.ports-testing.list   yisus-keyring
 data/data/com.termux/files/usr/bin/Ys-get                                        ys-debs
 data/data/com.termux/files/usr/bin/Ys-help                                       ys-debs
 data/data/com.termux/files/usr/bin/Ys-list                                       ys-debs
