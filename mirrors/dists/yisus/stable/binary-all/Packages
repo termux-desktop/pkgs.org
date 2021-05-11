@@ -62,6 +62,22 @@ SHA1: 4fecbe71e5d71bee16a5460ce3d6071cc78051bb
 SHA256: 5c105e9a22dea07e62c9a73bcfae971d087b494d9ed500ff6ef716ae78e4608f
 SHA512: a57b5496e805664b730a834e0c38eea9dc7cec6a8c5fa0f0d07165e1878d80e920460a903810a36629be04d87d10197b2e72741242231f6c90161fa24265ce0e
 
+Package: phonedialer
+Version: 1.0.3
+Architecture: all
+Maintainer: @yisus7u7 | @rsanjuan87
+Description: It's a Dialer for termux desktop
+Homepage: https://github.com/rsanjuan87/Termux-DialerGUI
+Depends: python,python-tkinter,termux-api
+Recommends: gtk2
+Suggests: xfce4
+Filename: dists/yisus/stable/binary-all/phonedialer_1.0.3_all.deb
+Size: 46688
+MD5Sum: 4e105c90b7aed4d909b605947f92377f
+SHA1: 0e8a7b631f57e406039c861da891d347336bcd60
+SHA256: c955e930f4415c29fb1b1fa0fb43811c4670b57772786798a553ec629eaa6e4e
+SHA512: a88b958397adcdb6bcc6f0540c619d14c71ed10f56c15042f5c776ba5524e870afc02460090952def692eb0ebeccbfcf07b7608c614509b6412e048e51a14820
+
 Package: RapidPayload
 Version: 2.0
 Architecture: all
