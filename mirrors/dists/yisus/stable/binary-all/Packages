@@ -94,6 +94,23 @@ SHA1: f340b9af16af244a372542db8c570c07cc06fd5c
 SHA256: b2d7eaccaea7e7526f9fde3dfdd21c36a54b7487f7e9b835ce0937f0a4116b55
 SHA512: 941f044ac164b41f1c5ccc70933bce9c213574a776ecbcf5317aa339c4ff1adc91280c364931f0ad6f5092b1ffbce21aee5f6c6071b4797b3891ec022140a18b
 
+Package: tela-manjaro-icon-theme
+Version: 2.0.3
+Depends: adwaita-icon-theme
+Priority: optional
+Section: icons
+Architecture: all
+Maintainer: @Yisus7u7v
+Homepage: https://www.pling.com/p/1279924/
+Installed-Size: 16.9 MB
+Description: Manjaro based icon theme
+Filename: dists/yisus/stable/binary-all/tela-manjaro-icon-theme_2.0.3_all.deb
+Size: 2720612
+MD5Sum: 1daca736b6b2728b392c53e2fd1bf1d6
+SHA1: a870f5daa9ff6b6c65f501464a99ae4efc9c3e93
+SHA256: 40eb491e5631ce969c1b7dd67d47152cc7150750bcdeacd6a41e9c72a1525a94
+SHA512: 259b1df094440ec55e7b59da8fd347a3191939ff3ac1ad61f056d328f7c65f5daaf846d8bae059a361c159c6d8af557dfa0e977eb10fc660448a2318a0fafe08
+
 Package: tela-yellow-icon-theme
 Version: 1.7
 Architecture: all
