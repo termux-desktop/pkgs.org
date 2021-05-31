@@ -46,6 +46,23 @@ SHA1: 859c8863367b0bfd2bf14b0a42c78b1a8ef5cb67
 SHA256: 2c0b70467e6508c5d1c1d731dbed5777ecb9adeff358b943030d9722451d11a1
 SHA512: 69277f2ade4a1302dd0600f719da648a639da4786680a631af1c5d0a51267b009446744ee6f43354547cd814b7e7da387f05ccaaf2fae951687216ac083d0c5c
 
+Package: orchis-gtk-theme
+Version: 2021-04-20
+Section: themes
+Priority: optional
+Architecture: all
+Depends: gtk2, gtk3, desktop-file-utils
+Installed-Size: 3.4 MB
+Maintainer: Yisus7u7 <jesuspixel5@gmail.com
+Homepage: https://github.com/vinceliuice/Orchis-theme
+Description:  Orchis is a theme for GNOME/GTK based desktop environments
+Filename: dists/yisus/stable/binary-all/orchis-gtk-theme-2021-04-20-all.deb
+Size: 100368
+MD5Sum: e2d81a40a49de94804eecbdbcdd0d6ac
+SHA1: 7a06afc8dbf336d30c9967dbdf2ecef53da3a88e
+SHA256: 8fb150e91a86afc73fbe6c2bc83bd24c59550a3593a63b9edf4ba8a3b6c80054
+SHA512: 8a7ee4fcf9e27e7e6f63a70f3bbce2f83d80d7c999fd8096b6ef0e9e102300f25be763d5815450a2e1140ce8e8b54d20bac28e59e80c2c2ae74de778153d3245
+
 Package: oreo-blue-cursors-theme
 Version: 2.3
 Architecture: all
