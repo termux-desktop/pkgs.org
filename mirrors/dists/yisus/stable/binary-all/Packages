@@ -30,6 +30,23 @@ SHA1: e6121abd8b7070bc32f0014a326895a8c70fc65e
 SHA256: 5c720eb8fe02e2fc4615e34310cb7e286f50f4470bb8fde6e69fcbe8a556cbff
 SHA512: 911ed06075cdb1f68880d9abe3aae006762bf86ac31e79f65f7a0deba98d37b77547bb1bc92aebaffc54f21176df3ed4911933c3e0ef80f04868dcc0c312468a
 
+Package: geany-themes
+Version: 1.22 
+Section: themes
+Priority: optional
+Architecture: all
+Depends: geany, geany-plugins
+Installed-Size: 111 KB
+Maintainer: Yisus7u7 <jesuspixel5@gmail.com>
+Homepage: https://github.com/codebrainz/geany-themes
+Description: A collection of colour schemes for Geany
+Filename: dists/yisus/stable/binary-all/geany-themes-1.22-all.deb
+Size: 14964
+MD5Sum: f7285f6deb0df16ebf2aad179b81da9e
+SHA1: 3e437ff12ef4c319a3a3ebd1e6810757d047dd76
+SHA256: d9fdadb22a7e92d5500ac779218eb2768f79b87e05e7f2c2162ce3099aae1290
+SHA512: 49a684ac3e76e3b27adb7617793e8c7cf669c5804ad02f769f1e3824a8957fccbdfdb456d8e17774cbb1eeac1925a6b9d621f8a8627f639f96e2880507091ebf
+
 Package: mac-themes
 Version: 2.3
 Architecture: all
