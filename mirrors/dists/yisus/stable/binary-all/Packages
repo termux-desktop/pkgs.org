@@ -41,11 +41,11 @@ Maintainer: Yisus7u7 <jesuspixel5@gmail.com>
 Homepage: https://github.com/codebrainz/geany-themes
 Description: A collection of colour schemes for Geany
 Filename: dists/yisus/stable/binary-all/geany-themes-1.22-all.deb
-Size: 14964
-MD5Sum: f7285f6deb0df16ebf2aad179b81da9e
-SHA1: 3e437ff12ef4c319a3a3ebd1e6810757d047dd76
-SHA256: d9fdadb22a7e92d5500ac779218eb2768f79b87e05e7f2c2162ce3099aae1290
-SHA512: 49a684ac3e76e3b27adb7617793e8c7cf669c5804ad02f769f1e3824a8957fccbdfdb456d8e17774cbb1eeac1925a6b9d621f8a8627f639f96e2880507091ebf
+Size: 14684
+MD5Sum: 7a2f84c53d2ff72ab7f0fc7da3c4c69d
+SHA1: 04374ac41ab5e659edabbc7c12742584b5086b08
+SHA256: aa57877a6c228b46b8b7ee7db36c1f671741bc12ba45cf5f79b06d5175c44de3
+SHA512: b48923e3a5fd9701c4147680ed10077f74677a62d29e3fea79d56ae901b0579d31e4eb932b0deb7529f74e097ce00dd2d045b023da5baa7f886cf7c95057ac82
 
 Package: mac-themes
 Version: 2.3
