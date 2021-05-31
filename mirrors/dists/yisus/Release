@@ -1,0 +1,26 @@
+Codename: termux
+Version: 1
+Architectures: all
+Description: yisus repository
+Suite: yisus
+Date: Mon, 31 May 2021 17:34:07 UTC
+MD5Sum:
+ 18d3b6af7f5b4071b9809401e8611261 7019 stable/binary-all/Packages
+ cec2aba8fffda3cce1beb87b9445e950 2944 stable/binary-all/Packages.xz
+ 264b03b091da5f29e42e9868119a89d9 7673997 stable/Contents-all
+ 536bf7bab39dbf2717bdc8929cff8dcc 255192 stable/Contents-all.xz
+SHA1:
+ 7aca7ecc8ddbc024c4648007800a9ac58edd67d1 7019 stable/binary-all/Packages
+ a9ba0270df48fe0e25fd6fbd27446057f01cc8d3 2944 stable/binary-all/Packages.xz
+ d01874142301040e39f72e7885da3ab7e3bf2f3b 7673997 stable/Contents-all
+ f4cf9507eea8a4267423eac2ca1aac3627695b69 255192 stable/Contents-all.xz
+SHA256:
+ bf6e071a12ad74da819fae699455bad27915bfc5988da4b1e4577754bcb41841 7019 stable/binary-all/Packages
+ 1ff76acb70c2948749458ca26a1909e9d385b44bfa70c17c94f88f972454e423 2944 stable/binary-all/Packages.xz
+ 32d0ddb5c72eaa061db4592c8b08c7215b48c2207a915b0ff5b4fe9e1942d9cd 7673997 stable/Contents-all
+ 782361188a30eb2f45c8eb6f4f3957d2333f9c900c87de5684d74f1bb9db54a8 255192 stable/Contents-all.xz
+SHA512:
+ d95bbdec954bb509f8efc1dcbd69704804b8adc066142dc37abca746f9edf48925048d551fd36debe7a7b78d80462d07014a8d69d4bcef780fc80775d9ae139b 7019 stable/binary-all/Packages
+ d24ecc7d2b6b42a44e9122a368411c36ec7ca0b8ffdd284f75f10e052498c7c7041ed0da3000ee710357eaa04727fcc07c4eedab44eaba1e01fd48930221a156 2944 stable/binary-all/Packages.xz
+ fc6e0b427fa15e860cb7daf36c06f6f83eec22737fad2960b681c2005f6f441005534de1c36c63429b336b3d350346e428506f08b6719533a066c93580da01a3 7673997 stable/Contents-all
+ 38e1217749309c46c0ba7a4a30ed98bd90b037095e1e440b8cad49663178d01c90dd76f4c99b0339371b39cbd8cf7ae8933720212a4abafbb8c55f572cf00e6b 255192 stable/Contents-all.xz
