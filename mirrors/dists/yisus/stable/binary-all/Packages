@@ -138,11 +138,11 @@ Suggests: x11-repo
 Installed-Size: 11
 Maintainer: @Yisus7u7 <jesuspixel5@gmail.com
 Homepage: https://github.com/Yisus7u7/pkgs.yisus.org
-Description: keyfiles for community proyect (pkg.yisus.org)
+Description: keyfiles for community project (pkg.yisus.org)
 Filename: dists/yisus/stable/binary-all/yisus-keyring_2021.1_all.deb
-Size: 1136
-MD5Sum: f23d03b87b07c419affae93fdc3ccb65
-SHA1: 631a9aa1ca1d4acdb64c7684fb8979008fb87517
-SHA256: e966aa3419a9fcd89d3813622eee633c0fe73578c0a1eb0b84ef295c2ba271d1
-SHA512: 9be214ce7344b01d744af6dc190c364c0671b5d318e8ceb449d093bff33e6aed4d932e5a3adbbf8ff4461fde6752d5a22004b5a556deaad199fee4d407a06630
+Size: 1140
+MD5Sum: 2460f28843a8b3b0b7b9321cfffdd8ed
+SHA1: 8af7f45cf977ca77129c8e08d582da1c987a88fc
+SHA256: 5beb36ebac65a8edc788ba2fda6e8adfbd82dc1c75d8410fdb8ba7ac8c99aa73
+SHA512: c0b2cb0e3109fc1f11163b5c4495d6069aca47c31c6d19c070a230f36237188e0fe58234d8ca88d1e9dcbe8dfbce407d58dda34d8c79ea623edaa4c2c579ca9a
 
