@@ -130,35 +130,19 @@ SHA256: 943ce8f7263e27863f7ed6b08d5ef3cb67b6035cfe500558c19dc60e9dc3e1fb
 SHA512: e178c6655cdf64b14b91a84b0f7549b8f19500ff500824b05d3ed7a87744ba131eb68757a54bb1236c6b8a014bb155aa227c3e22281d73fe8febcaf94426aca6
 
 Package: yisus-keyring
-Version: 2.0.1
+Version: 2021.1
+Priority: optional
 Architecture: all
-Maintainer: @yisus7u7
-Description: key files for yisus.ports
-Homepage: https://github.com/Yisus7u7/yisus.ports
 Depends: apt
-Recommends: x11-repo
-Suggests: xfce4
-Conflicts: yisus-keyring-2021
-Filename: dists/yisus/stable/binary-all/yisus-keyring_2.0.1_all.deb
-Size: 852
-MD5Sum: 1e7f0f8a44e407b55dc45a27988393e5
-SHA1: 077e9213ca7a993fc233684212c028fed3592646
-SHA256: ea88502a44f07b627f7d19fab54ea2097cbecdc73c7557e77fbb5c10562d913b
-SHA512: c8daec01f05b5d4d89cdfd3719f71138161a9514f5f6212f656691933ec221fa9823c28bde55d7909ae7dc9845acc424c7553fc511ddbd86020753ffcb8f9e40
-
-Package: ys-debs
-Version: 1.0
-Architecture: all
-Maintainer: @yisus7u7v
-Description: Simple package manager made in python
-Homepage: https://Yisus7u7.github.io/webpages/docs/Ys-debs.html
-Depends: python,wget
-Recommends: git
-Suggests: nodejs
-Filename: dists/yisus/stable/binary-all/ys-debs_1.0_all.deb
-Size: 1400
-MD5Sum: 0557b11716374df63d2f2eabb776fc7e
-SHA1: adbfb3bfe09425599f7880d463b390cbd8ebec75
-SHA256: 7f4a365a1917b20b1af301e15b9cf2f4a26053359c8dfb33ebfff86a4ef6067e
-SHA512: 7be345506d000c7f363268e4931296e505ae07a01787c081875590c0ca69d28beff8e62a42586dc9efc878492d2c0a6f1a8edc0ac08eb12776d5cb2e81775edb
+Suggests: x11-repo
+Installed-Size: 11
+Maintainer: @Yisus7u7 <jesuspixel5@gmail.com
+Homepage: https://github.com/Yisus7u7/pkgs.yisus.org
+Description: keyfiles for community proyect (pkg.yisus.org)
+Filename: dists/yisus/stable/binary-all/yisus-keyring_2021.1_all.deb
+Size: 1136
+MD5Sum: f23d03b87b07c419affae93fdc3ccb65
+SHA1: 631a9aa1ca1d4acdb64c7684fb8979008fb87517
+SHA256: e966aa3419a9fcd89d3813622eee633c0fe73578c0a1eb0b84ef295c2ba271d1
+SHA512: 9be214ce7344b01d744af6dc190c364c0671b5d318e8ceb449d093bff33e6aed4d932e5a3adbbf8ff4461fde6752d5a22004b5a556deaad199fee4d407a06630
 
