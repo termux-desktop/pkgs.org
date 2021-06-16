@@ -82,7 +82,6 @@ Depends: apt
 Suggests: x11-repo
 Homepage: https://github.com/pkgs-yisus/pkgs.yisus.org
 Download-Size: 1148 B
-APT-Manual-Installed: yes
 APT-Sources: /storage/05D2-19E6/Android/data/com.termux/files/pkgs.yisus.org/debs/pkgs-keyring_2021.2_all.deb
 Description: keyfiles for community project (pkg.yisus.org)
 
