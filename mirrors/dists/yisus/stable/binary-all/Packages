@@ -31,22 +31,6 @@ SHA1: 04374ac41ab5e659edabbc7c12742584b5086b08
 SHA256: aa57877a6c228b46b8b7ee7db36c1f671741bc12ba45cf5f79b06d5175c44de3
 SHA512: b48923e3a5fd9701c4147680ed10077f74677a62d29e3fea79d56ae901b0579d31e4eb932b0deb7529f74e097ce00dd2d045b023da5baa7f886cf7c95057ac82
 
-Package: mac-themes
-Version: 2.3
-Architecture: all
-Maintainer: @yisus7u7v
-Description: Dark and light theme based on MacOS
-Homepage: https://store.kde.org/p/1400424/
-Depends: adwaita-icon-theme,gtk2,gtk3,desktop-file-utils
-Recommends: dbus
-Suggests: xfce4
-Filename: dists/yisus/stable/binary-all/mac-themes_2.3_all.deb
-Size: 282768
-MD5Sum: 1f42bc94dcdce96a1b0c9caa2c1fe5f7
-SHA1: 859c8863367b0bfd2bf14b0a42c78b1a8ef5cb67
-SHA256: 2c0b70467e6508c5d1c1d731dbed5777ecb9adeff358b943030d9722451d11a1
-SHA512: 69277f2ade4a1302dd0600f719da648a639da4786680a631af1c5d0a51267b009446744ee6f43354547cd814b7e7da387f05ccaaf2fae951687216ac083d0c5c
-
 Package: orchis-gtk-theme
 Version: 2021-04-20
 Section: themes
@@ -128,6 +112,22 @@ MD5Sum: 62597d23997dd7cdcfec2a32e52aeea3
 SHA1: d23acd304cccc30eac6f9e5e2feb39fb276f1339
 SHA256: 943ce8f7263e27863f7ed6b08d5ef3cb67b6035cfe500558c19dc60e9dc3e1fb
 SHA512: e178c6655cdf64b14b91a84b0f7549b8f19500ff500824b05d3ed7a87744ba131eb68757a54bb1236c6b8a014bb155aa227c3e22281d73fe8febcaf94426aca6
+
+Package: whitesur-gtk-theme
+Version: 2021-05-05
+Priority: optional
+Architecture: all
+Depends: adwaita-icon-theme
+Installed-Size: 3780
+Maintainer: @Yisus7u7 <jesuspixel5@gmail.com>
+Homepage: https://github.com/vinceliuice/WhiteSur-gtk-theme
+Description: MacOS Big Sur like theme for Gnome desktops
+Filename: dists/yisus/stable/binary-all/whitesur-gtk-theme_2021-05-05_all.deb
+Size: 231116
+MD5Sum: e3655dc0fb801ece27160c6c2f40a808
+SHA1: 622e7eb13ba62199b96e09ceac3acec22f8bdc6c
+SHA256: 72d2c041cf2eca9fab593f90deb8198921b568a7984a88781f7120d2bb5f143d
+SHA512: 48eee42c1604ef50b19c08669f53dd35b3bdac88a309210a7f5efb94975717438857f38296efdaf89979d0a91285695d1d7d93608a0dbd27653b27843525c56c
 
 Package: yisus-keyring
 Version: 2021.1
