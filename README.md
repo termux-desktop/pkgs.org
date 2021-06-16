@@ -13,6 +13,10 @@ curl https://raw.githubusercontent.com/pkgs-yisus/pkgs.yisus.org/main/pkgs_yisus
 > That package includes the main branch (stable) and 
 The unstable (testing)
 
+### You can see the list of available packages at :
+
+[https://pkgs-yisus.github.io/pkgs.yisus.org/docs/packages/](https://pkgs-yisus.github.io/pkgs.yisus.org/docs/packages/) 
+
 ## Welcome to pkgs.yisus.org! 
 
 - We accept package requests as long as they are possible from 
