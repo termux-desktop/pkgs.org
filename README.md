@@ -1,19 +1,13 @@
-# yisus.ports
-My software repository for termux 
+# pkgs.yisus.org
+My software and comunity repository for termux 
 
-# Como instalar ?
-`Ejecute esto en su terminal:`
+# How to install it? 
+`Run this on your terminal:`
 
 ```
-pkg install wget 
-
-wget https://github.com/Yisus7u7/yisus.ports/raw/main/mirrors/dists/yisus/stable/binary-all/yisus-keyring_2.0.1_all.deb
-
-pkg install ./yisus-keyring_2.0.1_all.deb 
-
-pkg update && pkg upgrade
+curl 
 ```
 
-> Ese paquete incluye la rama principal (stable) y 
-La inestable (testing)
+> That package includes the main branch (stable) and 
+The unstable (testing)
 
