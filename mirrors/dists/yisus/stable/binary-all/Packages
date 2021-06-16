@@ -33,20 +33,19 @@ SHA512: b48923e3a5fd9701c4147680ed10077f74677a62d29e3fea79d56ae901b0579d31e4eb93
 
 Package: orchis-gtk-theme
 Version: 2021-04-20
-Section: themes
 Priority: optional
 Architecture: all
 Depends: gtk2, gtk3, desktop-file-utils
-Installed-Size: 3.4 MB
+Installed-Size: 3490
 Maintainer: Yisus7u7 <jesuspixel5@gmail.com
 Homepage: https://github.com/vinceliuice/Orchis-theme
 Description:  Orchis is a theme for GNOME/GTK based desktop environments
-Filename: dists/yisus/stable/binary-all/orchis-gtk-theme-2021-04-20-all.deb
-Size: 100232
-MD5Sum: ae241fb6b2366f7c2bc808d66a7a5100
-SHA1: 1336f72c70de68d85270640798d0282e46ac89b9
-SHA256: c69e6f3629826838fef7e3c56819382a981e8330a97c6feab0bf31b9f5622696
-SHA512: ff452c0e5e86a8a9528eb1613e6624700ceec70144035b8144b30a17d5d73f65eaa85045619a014b53a08a2501279e6ae4ae95420a861d57f87deeadb6951b0d
+Filename: dists/yisus/stable/binary-all/orchis-gtk-theme_2021-04-20_all.deb
+Size: 100220
+MD5Sum: b1ab36591cfe3738ebb3d64ea20a032c
+SHA1: 2028c0a24610198faad66386f9d300d67f2186a1
+SHA256: 41b05e69ee9e8637025914e8be09170e3d485f9bd8ea2456fbfd2456ca2a357f
+SHA512: 434492153783ff39eed8ae02207c6f0284f6b1591198030e1e0d44b2c46f552449aa78ba8b180f0fabbaadb7510043a95c8b87d801fd41503fc0a911de2080e5
 
 Package: oreo-blue-cursors-theme
 Version: 2.3
@@ -117,17 +116,17 @@ Package: whitesur-gtk-theme
 Version: 2021-05-05
 Priority: optional
 Architecture: all
-Depends: adwaita-icon-theme
+Depends: adwaita-icon-theme, gtk2, gtk3
 Installed-Size: 3780
 Maintainer: @Yisus7u7 <jesuspixel5@gmail.com>
 Homepage: https://github.com/vinceliuice/WhiteSur-gtk-theme
 Description: MacOS Big Sur like theme for Gnome desktops
 Filename: dists/yisus/stable/binary-all/whitesur-gtk-theme_2021-05-05_all.deb
-Size: 231116
-MD5Sum: e3655dc0fb801ece27160c6c2f40a808
-SHA1: 622e7eb13ba62199b96e09ceac3acec22f8bdc6c
-SHA256: 72d2c041cf2eca9fab593f90deb8198921b568a7984a88781f7120d2bb5f143d
-SHA512: 48eee42c1604ef50b19c08669f53dd35b3bdac88a309210a7f5efb94975717438857f38296efdaf89979d0a91285695d1d7d93608a0dbd27653b27843525c56c
+Size: 231124
+MD5Sum: 37c16f700fb354039018dd24ba513c52
+SHA1: c313aae0cb598341effd0458b42bf8ccc5b5b92f
+SHA256: 789d53ea25e52801a693969453b9604d15fadeb73cf4e5995c35608aa216300a
+SHA512: 48e8c0487abf83319c7eb8ba8786b14c95338fcca93225c7bf8fc6e34724113cc6e50a0930484781cde1a0c6ee38a86f8a3ae839939a592a6c05dd3350ca7e9f
 
 Package: yisus-keyring
 Version: 2021.1
