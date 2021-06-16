@@ -2,6 +2,7 @@
 
 ### Package list :
 
+```
 Package: candy-icon-theme
 Version: 0.2.8
 Priority: optional
@@ -119,4 +120,4 @@ Homepage: https://github.com/vinceliuice/WhiteSur-gtk-theme
 Download-Size: 231 kB
 APT-Sources: https://pkgs-yisus.github.io/pkgs.yisus.org/mirrors pkgs/stable all Packages
 Description: MacOS Big Sur like theme for Gnome desktops
-
+```
