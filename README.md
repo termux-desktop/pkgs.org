@@ -5,7 +5,7 @@ My software and comunity repository for termux
 `Run this on your terminal:`
 
 ```
-curl 
+curl https://raw.githubusercontent.com/Yisus7u7/pkgs.yisus.org/main/pkgs_yisus_install.sh | bash
 ```
 
 > That package includes the main branch (stable) and 
