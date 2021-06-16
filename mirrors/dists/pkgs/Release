@@ -1,0 +1,26 @@
+Codename: termux
+Version: 1
+Architectures: all
+Description: pkgs repository
+Suite: pkgs
+Date: Wed, 16 Jun 2021 12:23:00 UTC
+MD5Sum:
+ bd131b86dd65fb8f9626aa7c81424a25 6664 stable/binary-all/Packages
+ 60c0af9452cb189faa4221ac23006cdf 2768 stable/binary-all/Packages.xz
+ 0d4cc62d4f9e3ed67aa4f9c72779654a 7673939 stable/Contents-all
+ 9d7965a1fd0fd2b9da11518265b43012 253724 stable/Contents-all.xz
+SHA1:
+ bb6ef98ff1c00a08ed176ece8ce50679b5e9bd55 6664 stable/binary-all/Packages
+ 7d913e4401f10f5d7c0e971bdad246baece12e9f 2768 stable/binary-all/Packages.xz
+ 64dc4b5f23e13bda8c4283903c1438fe31ada499 7673939 stable/Contents-all
+ 62fc9f994218f77ae9d27eca7caaf7d25e9a8af2 253724 stable/Contents-all.xz
+SHA256:
+ 857e71aac9694af68636c8e1afcdf30f84ddd7b7f29344f182670a4ec9ddd2f8 6664 stable/binary-all/Packages
+ 83fb13228b7569764cfcfe1f45f79d4365c501cec6cb47718c30f18283cc2ceb 2768 stable/binary-all/Packages.xz
+ 4160eae520b3ef9ff7916db2761319ce0108e1fc5c7cf8d8e94c56f72aed3de4 7673939 stable/Contents-all
+ 0d3fae5e4182ed548f886a876b240546e4ecc49f13af7712eba83bf3eac2e8d5 253724 stable/Contents-all.xz
+SHA512:
+ 0b677f202314e60c404cde2dc28eb4550cf91b5e8488a327558f9c71a36382eec9711e78dfca02f40d35b19864ce52f9cbf0f06122cb2d3e4bbde91891521a4c 6664 stable/binary-all/Packages
+ f47fcb3ebfdbd601bb0a5393270a27df3c367b4c62cf81e25510e39e915d9509a00d87576eccd0e1681d9bf9ed64e567794d1a0e83d07e2a8e707b9628a10cdc 2768 stable/binary-all/Packages.xz
+ 73c9ca42009b2ddf22db5ae1c15f0175cb6c126c5a3536b7f3ea633e0fe689c8c57438650d7c99ffe5e537e12774e206aecaf2f4df88c08692f1b8ea544c981c 7673939 stable/Contents-all
+ 2dac1a08e515f4b125a60e50f1e84c190c07a1832fccd6e15f0621e5edae792d4fec70c31920f1fcc12ff75cdba824ae27f52b8f1a6c0b3e844c89847e7d5ca1 253724 stable/Contents-all.xz
