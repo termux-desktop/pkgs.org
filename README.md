@@ -13,6 +13,10 @@ curl https://raw.githubusercontent.com/pkgs-yisus/pkgs.yisus.org/main/pkgs_yisus
 > That package includes the main branch (stable) and 
 The unstable (testing)
 
+### You can see the list of available packages at :
+
+[https://pkgs-yisus.github.io/pkgs.yisus.org/docs/packages/](https://pkgs-yisus.github.io/pkgs.yisus.org/docs/packages/) 
+
 ## Welcome to pkgs.yisus.org! 
 
 - We accept package requests as long as they are possible from 
@@ -30,7 +34,7 @@ We do not accept heavy/lacking libraries to compile
 ## How to contribute? 
 
 You can build deb packages and make a pull request, 
-You must place your package in the [comunity_packages](https://github.com/Yisus7u7/pkgs.yisus.org/tree/main/comunity_packages) folder, 
+You must place your package in the [comunity_packages](https://github.com/pkgs-yisus/pkgs.yisus.org/tree/main/comunity_packages) folder, 
 If the package is functional it will be merged and added 
 to the repository. 
 
