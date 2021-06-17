@@ -14,6 +14,22 @@ SHA1: a052626dc0b4cad2a12e8bf438d4dc0303f14e49
 SHA256: ea57a5af3435076606b66a8619fa011504bd5f3a4f1217a9355cd29717aa378b
 SHA512: a191e2a775e51425974d0d50207f718e83fa8ae3f0a4d412d7e5cf393b41682db4d1108c26d17a9e0756308dfefda15b3746ad00aa9ce888ab8f55b3b5653f35
 
+Package: fotosploit
+Version: 2.0.4
+Priority: optional
+Architecture: all
+Depends: php, python, python2, openssh
+Installed-Size: 
+Maintainer: @Yisus7u7 <jesuspixel5@gmail.com>
+Homepage: https://github.com/Cesar-Hack-Gray/FotoSploit
+Description: FotoSploit es un exploit que ensambla la foto de nuestra víctima en un enlace falso (phishing)
+Filename: dists/pkgs/stable/binary-all/fotosploit_2.0.4_all.deb
+Size: 6188620
+MD5Sum: 0237e3b8b495d316e784cdac99228706
+SHA1: 6fd778c8cd67dedbe80f433677527af80f335150
+SHA256: 8ba07d458050926a167ec17a70a857cbeb673fa07bbf834c82d9ca68fe2b8d74
+SHA512: 38382355ebfdd9ecdc840c644c8ea2f6e6fd020ecb83dcbfcd5abb57f6db842c3b49cdef0fdb31bad278254b2804f8a2558d8ea3983e96c29dd93828e8d0bdc9
+
 Package: geany-themes
 Version: 1.22 
 Section: themes
@@ -96,6 +112,23 @@ SHA1: 0e8a7b631f57e406039c861da891d347336bcd60
 SHA256: c955e930f4415c29fb1b1fa0fb43811c4670b57772786798a553ec629eaa6e4e
 SHA512: a88b958397adcdb6bcc6f0540c619d14c71ed10f56c15042f5c776ba5524e870afc02460090952def692eb0ebeccbfcf07b7608c614509b6412e048e51a14820
 
+Package: pkgs-keyring
+Version: 2021.2
+Priority: optional
+Architecture: all
+Depends: apt
+Suggests: x11-repo
+Installed-Size: 11
+Maintainer: @Yisus7u7 <jesuspixel5@gmail.com
+Homepage: https://github.com/pkgs-yisus/pkgs.yisus.org
+Description: keyfiles for community project (pkg.yisus.org)
+Filename: dists/pkgs/stable/binary-all/pkgs-keyring_2021.2_all.deb
+Size: 1148
+MD5Sum: 0248223ea9c12fe0511d95275801730e
+SHA1: 3ec18741becd8a108866510a330e00e88a1f866b
+SHA256: 7adf175c9a100ef92d64282ea8649c4b685dcd529f3134645e7c964290d67ebd
+SHA512: 2e1f33ac55fdf9f594770026e19c827b929745d3b904fe02931f46a95226fc6403d5e9e6b77564f92879f653e26560ed87947d718007607b26d3b741bcd87a14
+
 Package: tela-manjaro-icon-theme
 Version: 2.0.3
 Depends: adwaita-icon-theme
@@ -144,21 +177,4 @@ MD5Sum: 37c16f700fb354039018dd24ba513c52
 SHA1: c313aae0cb598341effd0458b42bf8ccc5b5b92f
 SHA256: 789d53ea25e52801a693969453b9604d15fadeb73cf4e5995c35608aa216300a
 SHA512: 48e8c0487abf83319c7eb8ba8786b14c95338fcca93225c7bf8fc6e34724113cc6e50a0930484781cde1a0c6ee38a86f8a3ae839939a592a6c05dd3350ca7e9f
-
-Package: yisus-keyring
-Version: 2021.1
-Priority: optional
-Architecture: all
-Depends: apt
-Suggests: x11-repo
-Installed-Size: 11
-Maintainer: @Yisus7u7 <jesuspixel5@gmail.com
-Homepage: https://github.com/Yisus7u7/pkgs.yisus.org
-Description: keyfiles for community project (pkg.yisus.org)
-Filename: dists/pkgs/stable/binary-all/yisus-keyring_2021.1_all.deb
-Size: 1144
-MD5Sum: dbf6548222f80cbc18355a959127f017
-SHA1: 6f84fad82d70bc79a14a6202e430fd6eeaebd48a
-SHA256: 466a14ff77a5036d68d8383ebf9e0e9c89d40348a2be042064b6b006bb20eab0
-SHA512: 1a2ba0b2f180db1d6a807c7e1ddeacab8fd048a4b86b5149e334f1e83b357d228f4c288ea559defdd05b3e638114ff0566548e560cf3afcb2043f5d5692e21d2
 
