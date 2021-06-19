@@ -43,5 +43,5 @@ should be for termux only.
 
 Most of the packages in this repository are thanks to :
 
-[https://github.com/Yisus7u7/termux-builder](https://github.com/Yisus7u7/termux-builder) 
+[https://yisus7u7.github.io/termux-builder](https://yisus7u7.github.io/termux-builder) 
 
