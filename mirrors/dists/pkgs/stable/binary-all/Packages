@@ -48,6 +48,21 @@ SHA1: 2681d6670be72f52962c2d931298eaea91bb81cc
 SHA256: 1d3403e9d84bfd528272a1880add6fe1058880eb0f738697baff3fdd27487622
 SHA512: 21a5860acec503ab9e805ccecb66974af9fdc5706c63c8cc509fc741693a8c30a77c1a645a6d51afebaa74e142e9451075725456396357926aa2f17f2492e0ec
 
+Package: insecam
+Version: 02-05-2021
+Architecture: all
+Maintainer: @Yisus7u7 <jesuspixel5@gmail.com>
+Installed-Size: 13705
+Depends: php, curl, wget, ncurses-utils, ruby
+Homepage: https://github.com/wilian-lgn/insecam
+Description: Insecam es una herramienta programada en el lenguaje bash, su funcion es capturar la camara frontal o delantera de tu victima, aplicando ingeneria social
+Filename: dists/pkgs/stable/binary-all/insecam_02-05-2021_all.deb
+Size: 4002112
+MD5Sum: 447556667d174410bcd64908bf164b44
+SHA1: bb55af571506fb355f75a6eb670688f7ab36aec6
+SHA256: 2f4c9093ac4ed6aa636e2313427d990bc5e0d0f2e0ea68e00396d06218a41e60
+SHA512: 45596aa3ce6b0ddb27c641881bb1e8ae6026ca785f6e36ba386b889ec2b7ea9bf535a3e23c0def7796eb88946f6bb39b74e7ebc51944e271c0e4b8b2fa4838fa
+
 Package: orchis-gtk-theme
 Version: 2021-04-20
 Priority: optional
