@@ -1,0 +1,15 @@
+Package: camphish
+Version: 14-4-2020
+Architecture: aarch64
+Maintainer: @Yisus7u7 <jesuspixel5@gmail.com>
+Installed-Size: 1240
+Depends: php, openssh, wget
+Homepage: https://github.com/techchipnet/CamPhish
+Description: Grab cam shots from target's phone front camera or PC webcam just sending a link
+Filename: dists/pkgs/stable/binary-aarch64/camphish_14-4-2020_aarch64.deb
+Size: 3588024
+MD5Sum: ea802ab25f3a2e285239c8d5b7105a73
+SHA1: fddf92ce83b2137599d889cd846d6a7a3b136e1a
+SHA256: 945836887fc1b47ad09bf7c9a9273578b89cba185156e6b44e434af6a6f81840
+SHA512: c9cd4a7e23f7a7dea4f624ae2b08b109c25276d063153fe9455e3b20953ecd6305c53048f69861722857d098c80fed34e0ac4f8b203b463623f9c7bec02f9781
+
