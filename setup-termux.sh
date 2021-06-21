@@ -2,4 +2,6 @@
 
 pkg up
 
-pkg install termux-apt-repo 
+pkg install termux-apt-repo gpgme gpgv 
+
+pkg install gpg-crypter
