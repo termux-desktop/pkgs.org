@@ -31,3 +31,5 @@
 - hydra-dev 
 
 - camphish
+
+- insecam
