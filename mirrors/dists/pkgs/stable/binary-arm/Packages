@@ -1,0 +1,15 @@
+Package: camphish
+Version: 14-4-2020
+Architecture: arm
+Maintainer: @Yisus7u7 <jesuspixel5@gmail.com>
+Installed-Size: 1240
+Depends: php, openssh, wget
+Homepage: https://github.com/techchipnet/CamPhish
+Description: Grab cam shots from target's phone front camera or PC webcam just sending a link
+Filename: dists/pkgs/stable/binary-arm/camphish_14-4-2020_arm.deb
+Size: 3568776
+MD5Sum: 1479e4f8d088e2c82fe5048db5d71e97
+SHA1: f502b577cba8eaf6c7d404a6779a8724e5e8c506
+SHA256: 1a1ea9466376df7aa03c47f56c3ed649102eb3fae07a8552ce2b645c92527202
+SHA512: 8c0a92693dbaac649f9a9274683a1a418a4aaa537076877d28313f022e18b59cb5133b4829dcd834f26f5b9ebb5e2ee77e9da764550e74a8058fc77b5dbb262d
+
