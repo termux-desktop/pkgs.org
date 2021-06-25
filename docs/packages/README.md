@@ -24,6 +24,8 @@
 
 - phonedialer 
 
+- termux-pkg-manager 
+
 ### Tools for pentesters
 
 - phoneinfoga-legacy
