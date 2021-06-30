@@ -1,6 +1,6 @@
-![image](https://opengraph.githubassets.com/91871daab983cd69e18846c4f5c40a547e91638b3fe6064d81d9bb4574d95e73/pkgs-yisus/pkgs.yisus.org) 
+![image](https://opengraph.githubassets.com/91871daab983cd69e18846c4f5c40a547e91638b3fe6064d81d9bb4574d95e73/pkgs-termux/pkgs.org) 
 
-# pkgs.yisus.org
+# pkgs.org
 My software and comunity repository for termux 
 
 # How to install it? 
@@ -15,9 +15,9 @@ The unstable (testing)
 
 ### You can see the list of available packages at :
 
-[https://pkgs-yisus.github.io/pkgs.yisus.org/docs/packages/](https://pkgs-yisus.github.io/pkgs.yisus.org/docs/packages/) 
+[https://pkgs-termux.github.io/pkgs.org/docs/packages/](https://pkgs-termux.github.io/pkgs.org/docs/packages/) 
 
-## Welcome to pkgs.yisus.org! 
+## Welcome to pkgs.org! 
 
 - We accept package requests as long as they are possible from 
 compile
@@ -28,13 +28,13 @@ as long as its usefulness is good.
 - You can contribute to the project by giving improvements, requesting packages, 
 making improvements. 
 
-- Report errors or request packages [here](https://github.com/Yisus7u7/pkgs.yisus.org/issues) 
+- Report errors or request packages [here](https://github.com/pkgs-termux/pkgs.org/issues) 
 We do not accept heavy/lacking libraries to compile 
 
 ## How to contribute? 
 
 You can build deb packages and make a pull request, 
-You must place your package in the [comunity_packages](https://github.com/pkgs-yisus/pkgs.yisus.org/tree/main/comunity_packages) folder, 
+You must place your package in the [comunity_packages](https://github.com/pkgs-termux/pkgs.org/tree/main/comunity_packages) folder, 
 If the package is functional it will be merged and added 
 to the repository. 
 
