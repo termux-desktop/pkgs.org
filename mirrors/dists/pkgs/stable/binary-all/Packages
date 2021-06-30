@@ -129,21 +129,21 @@ SHA256: fb3fe308d24ed43dbae237ec34db9203707abd4fe3fdb845bd865500ac6e59f1
 SHA512: 2236660646e71a4ff7054fe533471d375680e8b1cef68ded50600562672944d70921fa72d802c864c472404b37d3f67de8025d5a9978fe5f14cf5804da323f35
 
 Package: pkgs-keyring
-Version: 2021.2
+Version: 2021.4
 Priority: optional
 Architecture: all
 Depends: apt
 Suggests: x11-repo
 Installed-Size: 11
 Maintainer: @Yisus7u7 <jesuspixel5@gmail.com
-Homepage: https://github.com/pkgs-yisus/pkgs.yisus.org
-Description: keyfiles for community project (pkg.yisus.org)
-Filename: dists/pkgs/stable/binary-all/pkgs-keyring_2021.2_all.deb
-Size: 1148
-MD5Sum: 0248223ea9c12fe0511d95275801730e
-SHA1: 3ec18741becd8a108866510a330e00e88a1f866b
-SHA256: 7adf175c9a100ef92d64282ea8649c4b685dcd529f3134645e7c964290d67ebd
-SHA512: 2e1f33ac55fdf9f594770026e19c827b929745d3b904fe02931f46a95226fc6403d5e9e6b77564f92879f653e26560ed87947d718007607b26d3b741bcd87a14
+Homepage: https://pkgs-termux.github.io/pkgs.org
+Description: keyfiles for community project (pkgs.org)
+Filename: dists/pkgs/stable/binary-all/pkgs-keyring_2021.4_all.deb
+Size: 1132
+MD5Sum: 4c8b7b020aec59f672af8531f825542a
+SHA1: faa199a45f0ce8c3c30dbbcfab9b2b1ac0582755
+SHA256: 585ff73a3d82426c3ac9a7d169f1c983af63198b11da2b16bde1adb46562acea
+SHA512: c5cdb23186e6f28e8294668bf5c7f54d3275dda6410ebb711bdcedad9712046190d59f04ac77fa37926210d3ffc5904003799920ec7e802b5134799a1d9ad285
 
 Package: tela-manjaro-icon-theme
 Version: 2.0.3
