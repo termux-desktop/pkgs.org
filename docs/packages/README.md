@@ -1,4 +1,4 @@
-## Welcome to pkgs.yisus.org 
+## Welcome to pkgs.org 
 
 ### Package list :
 
