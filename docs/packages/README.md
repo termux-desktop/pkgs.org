@@ -4,6 +4,14 @@
 
 ## Topics
 
+### Extra libraries 
+
+- libwayland
+
+- libwayland-protocols
+
+- xwayland
+
 ### Themes for X11-REPO (GUI) 
 
 - candy-icon-theme
