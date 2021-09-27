@@ -1,9 +1,9 @@
 Codename: termux
 Version: 1
-Architectures: all i686 aarch64 arm x86_64
+Architectures: arm aarch64 all i686 x86_64
 Description: pkgs repository
 Suite: pkgs
-Date: Tue, 06 Jul 2021 12:54:20 UTC
+Date: Mon, 27 Sep 2021 19:39:19 UTC
 MD5Sum:
  4a5c531c73a43e3861477a890c79997a 3453 stable/binary-aarch64/Packages
  70d981f25e15d393026d3c80947293ce 1564 stable/binary-aarch64/Packages.xz
