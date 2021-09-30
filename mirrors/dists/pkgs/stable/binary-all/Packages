@@ -46,21 +46,6 @@ SHA1: bb55af571506fb355f75a6eb670688f7ab36aec6
 SHA256: 2f4c9093ac4ed6aa636e2313427d990bc5e0d0f2e0ea68e00396d06218a41e60
 SHA512: 45596aa3ce6b0ddb27c641881bb1e8ae6026ca785f6e36ba386b889ec2b7ea9bf535a3e23c0def7796eb88946f6bb39b74e7ebc51944e271c0e4b8b2fa4838fa
 
-Package: minecraft-launcher
-Version: 1.6.93
-Architecture: all
-Maintainer: @Yisus7u7 <jesuspixel5@gmail.com>
-Installed-Size: 4320
-Depends: openjdk-17, libx11
-Homepage: https://www.minecraft.net/es-es/store/minecraft-java-edition
-Description: Play Minecraft java in termux (beta)
-Filename: dists/pkgs/stable/binary-all/minecraft-launcher_1.6.93_all.deb
-Size: 3902272
-MD5Sum: c6bea970d1457c137295d3b83571047f
-SHA1: 32c76992af0292c9fe78e75d0172ae91f138bf6f
-SHA256: 586064b99db67d52cd2659a4c2cb039abf7b8a34ed1f316a57aecb28005811ac
-SHA512: d0458d511f0dbac957f70f7ae32ce2e409870082d40b2a7bd4606fa21acf8de714dbfa243a8fa5b01459443e058864aaeaf4bd3dcbdeabc1a967320c580a3f2f
-
 Package: orchis-gtk-theme
 Version: 2021-04-20
 Priority: optional
